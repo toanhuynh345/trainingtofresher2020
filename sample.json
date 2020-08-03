@@ -17,19 +17,25 @@
             {
               "id": "1002",
               "type": "Chocolate",
-              "price": 40000
+              "price": 402100
             },
             {
               "id": "1003",
               "type": "Blueberry",
               "display": true,
-              "price": 35000
+              "price": 35400
             },
             {
               "id": "1004",
               "type": "Devil's Food",
               "display": true,
               "price": 500000
+            },
+            {
+              "id": "1005",
+              "type": "SEA's Food",
+              "display": true,
+              "price": 5990300
             }
           ]
         },
