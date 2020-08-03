@@ -10,7 +10,8 @@
           "batter": [
             {
               "id": "1001",
-              "type": "Regular"
+              "type": "ReGular",
+              "display": true
             },
             {
               "id": "1002",
@@ -18,11 +19,13 @@
             },
             {
               "id": "1003",
-              "type": "Blueberry"
+              "type": "Blueberry",
+              "display": true
             },
             {
               "id": "1004",
-              "type": "Devil's Food"
+              "type": "Devil's Food",
+              "display": true
             }
           ]
         },
@@ -33,15 +36,18 @@
           },
           {
             "id": "5002",
-            "type": "Glazed"
+            "type": "Glazed",
+            "display": true
           },
           {
             "id": "5005",
-            "type": "Sugar"
+            "type": "Sugar",
+            "display": true
           },
           {
             "id": "5007",
-            "type": "Powdered Sugar"
+            "type": "PowDered Sugar",
+            "display": true
           },
           {
             "id": "5006",
@@ -49,14 +55,16 @@
           },
           {
             "id": "5003",
-            "type": "Chocolate"
+            "type": "ChocolAte",
+            "display": true
           },
           {
             "id": "5004",
-            "type": "Maple"
+            "type": "Maple",
+            "display": true
           }
         ]
-      },
+      }
     ]
   }
 }
