@@ -11,21 +11,25 @@
             {
               "id": "1001",
               "type": "ReGular",
-              "display": true
+              "display": true,
+              "price": 20000
             },
             {
               "id": "1002",
-              "type": "Chocolate"
+              "type": "Chocolate",
+              "price": 40000
             },
             {
               "id": "1003",
               "type": "Blueberry",
-              "display": true
+              "display": true,
+              "price": 35000
             },
             {
               "id": "1004",
               "type": "Devil's Food",
-              "display": true
+              "display": true,
+              "price": 500000
             }
           ]
         },
